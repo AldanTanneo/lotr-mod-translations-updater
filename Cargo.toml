@@ -1,10 +1,8 @@
 [package]
-name = "lotr-translation-update"
-version = "0.1.0"
+name = "lotr-mod-translations-updater"
+version = "1.0"
 authors = ["AldanTanneo <aldantanneo@gmail.com>"]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 json = "0.12.4"
