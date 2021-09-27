@@ -8,5 +8,3 @@ In order to make this program work, you need to have it in a directory along wit
 * The new `en_us.json`, renamed `en_us_new.json`
 
 Run the program and follow the on-screen instructions, and you're done.
-
-[![Run on Repl.it](https://repl.it/badge/github/AldanTanneo/lotr-mod-translations-updater)](https://repl.it/github/AldanTanneo/lotr-mod-translations-updater)
